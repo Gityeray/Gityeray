@@ -1,4 +1,4 @@
-## Hi there 👋
+## ESTUDIANTE DE INGENIERIA EN SISTEMAS
 
 <!--
 **Gityeray/Gityeray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
